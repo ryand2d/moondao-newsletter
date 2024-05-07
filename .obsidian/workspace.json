@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "536951e2924bb876",
+    "type": "split",
+    "children": [
+      {
+        "id": "256b0769b417a402",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2add64f0b6ccdeb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa59e14d25d41b5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2645b8ea9d0c79d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "254532e08f988fac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ebd0a0b3b8554f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "473be977da7b28fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80b62819b9a0b3e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6443e52c5406196c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7e26d0499e8df14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65174ad016ae0e97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4402c8d4c09fe6c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "62e28ddcc811660a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "readme.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2add64f0b6ccdeb8",
+  "lastOpenFiles": [
+    "2. New Web3 Sequence/index.md",
+    "1. Initial Sequence/Your First MoonDAO Mission Awaits.md",
+    "readme.md",
+    "3. Active Web3 Sequence/4. Exercising Your Mooney Rights.md",
+    "3. Active Web3 Sequence/6. Getting to Work with MoonDAO.md",
+    "3. Active Web3 Sequence/5. A long time ago in a galaxy far, far away....md",
+    "3. Active Web3 Sequence/3. MoonDAO’s North Star.md",
+    "3. Active Web3 Sequence/2. One Small Step....md",
+    "3. Active Web3 Sequence/1. Welcome to MoonDAO 101.md",
+    "2. New Web3 Sequence/7. Your Web3 Overview Effect.md",
+    "2. New Web3 Sequence/6. DDD dApps, DeFi, and DEXes.md",
+    "2. New Web3 Sequence/5. Web3 Space no one can hear you scream.md",
+    "3. Active Web3 Sequence/7. You Are Ready to Launch!.md",
+    "1. Initial Sequence",
+    "3. Active Web3 Sequence",
+    "2. New Web3 Sequence/4. Getting Metaphysical.md",
+    "2. New Web3 Sequence/3. DAOn the Wormhole.md",
+    "2. New Web3 Sequence/2. Into the Ether of Space.md",
+    "2. New Web3 Sequence/1. MoonDAO Frens, GM!.md",
+    "2. New Web3 Sequence"
+  ]
+}
