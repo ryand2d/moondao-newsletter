@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "Archive/2. New Web3 Sequence/3. DAOn the Wormhole.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8fdbc215df5e7664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Flow/1. Initial Flow/2. One Small Step....md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "New Flow/1. Initial Flow/2. One Small Step....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "New Flow/1. Initial Flow/2. One Small Step....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "New Flow/1. Initial Flow/2. One Small Step....md"
               }
             }
           }
@@ -146,27 +159,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2add64f0b6ccdeb8",
+  "active": "8fdbc215df5e7664",
   "lastOpenFiles": [
-    "2. New Web3 Sequence/index.md",
-    "1. Initial Sequence/Your First MoonDAO Mission Awaits.md",
+    "New Flow/1. Initial Flow/1. Your First MoonDAO Mission Awaits.md",
+    "New Flow/3. Web3 Education/MoonDAO Frens, GM!.md",
+    "New Flow/2. About MoonDAO/1. MoonDAO 101.md",
+    "New Flow/readme.md",
+    "Archive/2. New Web3 Sequence/3. DAOn the Wormhole.md",
+    "New Flow/3. Web3 Education",
+    "New Flow/2. About MoonDAO",
+    "New Flow/1. Initial Flow",
+    "Archive",
+    "Archive/2. New Web3 Sequence/4. Getting Metaphysical.md",
+    "Archive/3. Active Web3 Sequence/1. Welcome to MoonDAO 101.md",
+    "Archive/2. New Web3 Sequence/2. Into the Ether of Space.md",
+    "New Flow/1. Initial Flow/2. One Small Step....md",
     "readme.md",
-    "3. Active Web3 Sequence/4. Exercising Your Mooney Rights.md",
-    "3. Active Web3 Sequence/6. Getting to Work with MoonDAO.md",
-    "3. Active Web3 Sequence/5. A long time ago in a galaxy far, far away....md",
-    "3. Active Web3 Sequence/3. MoonDAO’s North Star.md",
-    "3. Active Web3 Sequence/2. One Small Step....md",
-    "3. Active Web3 Sequence/1. Welcome to MoonDAO 101.md",
-    "2. New Web3 Sequence/7. Your Web3 Overview Effect.md",
-    "2. New Web3 Sequence/6. DDD dApps, DeFi, and DEXes.md",
-    "2. New Web3 Sequence/5. Web3 Space no one can hear you scream.md",
-    "3. Active Web3 Sequence/7. You Are Ready to Launch!.md",
-    "1. Initial Sequence",
-    "3. Active Web3 Sequence",
-    "2. New Web3 Sequence/4. Getting Metaphysical.md",
-    "2. New Web3 Sequence/3. DAOn the Wormhole.md",
-    "2. New Web3 Sequence/2. Into the Ether of Space.md",
-    "2. New Web3 Sequence/1. MoonDAO Frens, GM!.md",
-    "2. New Web3 Sequence"
+    "Archive/2. New Web3 Sequence/1. MoonDAO Frens, GM!.md",
+    "Archive/3. Active Web3 Sequence/4. Exercising Your Mooney Rights.md",
+    "Archive/3. Active Web3 Sequence/3. MoonDAO’s North Star.md",
+    "Archive/3. Active Web3 Sequence/2. One Small Step....md",
+    "Archive/1. Initial Sequence/Your First MoonDAO Mission Awaits.md",
+    "New Flow",
+    "2. New Web3 Sequence/index.md",
+    "Archive/3. Active Web3 Sequence/6. Getting to Work with MoonDAO.md",
+    "Archive/3. Active Web3 Sequence/5. A long time ago in a galaxy far, far away....md",
+    "Archive/2. New Web3 Sequence/7. Your Web3 Overview Effect.md",
+    "Archive/2. New Web3 Sequence/6. DDD dApps, DeFi, and DEXes.md",
+    "Archive/2. New Web3 Sequence/5. Web3 Space no one can hear you scream.md",
+    "Archive/3. Active Web3 Sequence/7. You Are Ready to Launch!.md",
+    "Archive/1. Initial Sequence",
+    "Archive/3. Active Web3 Sequence",
+    "Archive/2. New Web3 Sequence"
   ]
 }
